@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-webapp-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "nodejs-webapp-express",
+  "author": {
+    "name": "alagrawa"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.6.9",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "serve-favicon": "^2.5.0"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}
